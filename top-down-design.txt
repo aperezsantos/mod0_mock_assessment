@@ -1,0 +1,74 @@
+1 Separate Clothes
+  1.1 Collect laundry baskets
+    1.1.1 Overturn laundry baskets onto floor
+        1.1.1.1 Make a pile of work clothes
+              1.1.1.1.1 Divide into smaller piles if necessary
+        1.1.1.2 Make a pile of color clothes
+              1.1.1.2.1 Divide into smaller piles if necessary
+        1.1.1.3 Make a pile of black clothes
+              1.1.1.3.1 Divide into smaller piles if necessary
+        1.1.1.4 Make a pile of white clothes
+              1.1.1.4.1 Divide into smaller piles if necessary
+        1.1.1.5 Make a pile of delicates
+              1.1.1.5.1 Divide into smaller piles if necessary
+2 Setup washing machine
+  2.1 Select settings using washing machine dials
+    2.1.1 Turn water temperature dial to desired temp.
+    2.1.2 Turn cycle dial to desired setting depending on clothes
+  2.2 Add detergent
+    2.2.1 Grab your detergent
+    2.2.2 Read directions on the label
+    2.2.3 Measure out amount with detergent measuring cup
+    2.2.4 Open lid/door of washing machine or detergent holder
+    2.2.5 Pour detergent into washing machine or detergent holder
+  2.3 Add fabric softener
+    2.3.1 Grab your fabric softener
+    2.3.2 Read directions on the label
+    2.3.3 Measure amount with fabric softener cap
+    2.3.4 Poor fabric softener into opening of agitator or softener holder
+  2.4 Turn washing machine on
+    2.4.1 Pull cycle dial towards you
+  2.5 Finish setting up washing machine
+    2.4.2 Fill softener cap with water
+    2.4.3 Pour water from softener cap into opening of agitator until it fills to the opening
+  2.6 Put clothes in washing machine tub
+    2.6.1 Select pile of clothes to wash first
+    2.6.2 Put clothes into washing machine tub a few pieces at a time
+        2.6.2.1 Make sure clothes are spread evenly in the tub
+    2.6.3 Close washing machine lid
+        2.6.3.1 Wait for timer to signal "Done"
+3 Dry clothes
+  3.1 Setup dryer
+    3.1.1 Select settings using dryer dials
+        3.1.1.1 Decide temperature setting based on washed load
+        3.1.1.2 Decide timer setting based on washed load
+        3.1.1.2 Turn temperature and timer dials to desired settings
+        3.1.1.3 Turn "End of Cycle" dial to "On" to ensure timer goes off when cycle is finished
+    3.1.2 Clear lint trap
+        3.1.2.1 Pull lint trap out of slot
+        3.1.2.2 Pull lint off lint trap and discard
+        3.1.2.3 Insert lint trap back into slot
+  3.2 Transfer load into dryer
+    3.2.1 Open washing machine lid/door
+    3.2.2 Open dryer lid/door
+    3.2.3 Pull clothes from washing machine a few pieces at a time and place into dryer
+    3.2.4 Grab softener sheets if if you forgot to put laundry softener before
+    3.2.5 Place a few softener sheets in between wet clothes in the dryer
+  3.3 Start dryer
+    3.3.1 Close lid/door
+    3.3.2 Push down on "Start" button
+    3.3.3 Wait for end of cycle timer
+    3.3.4 Open lid/door of dryer and check status of clothes
+    3.3.5 If damp, turn timer dial to add additional time, and press "Start" button again
+4 Fold Clothes and put away
+  4.1 Place clean, newly dried clothes in hamper
+    4.1.1 Grab clean hamper
+    4.1.2 Open dryer lid/door of dryer
+    4.1.3 Check that clothes are dry by touching them
+    4.1.3 If dry, grab clothes and put them into hamper
+    4.1.4 Close dryer lid/door
+    4.1.5 Take clothes to folding area
+        4.1.5.1 Fold clothes one item at a time
+    4.1.6 Place folded clothes back into hamper
+    4.1.7 Carry clothes to closet and put away
+5. Repeat every step until all clothes are clean and put away
