@@ -1,0 +1,25 @@
+Class: Plant
+
+Attributes:
+color (string)
+sunlightNeeds (string)
+fruitType (string)
+flowerType (string)
+height (integer)
+branches (integer)
+wateringNeeds (integer)
+properties (array)
+healthStatus (array)
+fruit (boolean)
+flower (boolean)
+seedProduction (boolean)
+seedProperties (array)
+
+Methods:
+overWaterPlant (uses healthStatus)
+crossPollinate (changes seedProperties)
+addGraft (increases branches)
+plantIndoors (changes sunlightNeeds)
+introduceBees (uses healthStatus)
+trim (lowers height)
+pickAllFlowers (changes seedProduction)
