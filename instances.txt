@@ -1,0 +1,29 @@
+Class: Plant
+Object: Sunflower
+
+Attributes:
+color: ("yellow")
+sunlightNeeds: ("six to eight hours of direct sunlight")
+fruitType: ("none")
+flowerType: ("flower head")
+heightMeasurement: ("meter(s)")
+wateringMeasurement: ("inch(es) deep")
+height: 3.3
+branches: 1
+wateringNeeds: 1
+properties: ("edible seeds", "tea-producing leaves", "oil-producing seeds", "diuretic properties")
+healthStatus: ("healthy", "wilting", "drowned", "diseased", "dead")
+fruit: does it bear fruits? "false"
+flower: does it have flowers? "true"
+seedProduction: does it produce seeds? "true"
+seedProperties: ("edible", "oil-producing", "low-cholesterol")
+
+
+Methods:
+overWaterPlant: ("drowned")
+crossPollinate: ("none-edible seeds", "oil-producing", "high-cholesterol")
+addGraft: 2
+plantIndoors: ("six to eight hours of artificial sunlight"
+introduceBees: ("healthy")
+trim: 2.8
+pickAllFlowers: "false"
